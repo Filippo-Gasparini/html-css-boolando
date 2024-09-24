@@ -1,14 +1,2 @@
 
-.container {
-    display: flex;
-}
-
-
-.container-sm {
-    flex-direction: column;
-    display: flex;
-    background-color: burlywood;
-    align-items: center;
-    
-}
 
