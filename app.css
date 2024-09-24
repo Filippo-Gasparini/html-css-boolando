@@ -1,3 +1,27 @@
+
+.header
+.img {
+    background-color: burlywood;
+   color: #deb887;
+   
+}
+
 .container {
-margin-to
+
+justify-content: center;
+align-items: center;
+
+}
+.row {
+flex-direction: row;
+flex-wrap: wrap;
+}
+
+
+
+.row
+.col-33 {
+    max-height: 11px;
+    max-width: 10px;
+
 }
